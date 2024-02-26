@@ -1,0 +1,19 @@
+{
+  "name": "hacks",
+  "version": "1.0.0",
+  "description": "collection of helper or utility functions that are useful for developers in differenet scenarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanket4450/Hacks.git"
+  },
+  "author": "Sanket Talaviya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanket4450/Hacks/issues"
+  },
+  "homepage": "https://github.com/Sanket4450/Hacks#readme"
+}
